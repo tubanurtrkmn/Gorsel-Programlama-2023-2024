@@ -1,0 +1,88 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Hafta3-Teori",
+            "cwd": "Hafta3-Teori",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Hafta3-Teori (profile mode)",
+            "cwd": "Hafta3-Teori",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Hafta3-Teori (release mode)",
+            "cwd": "Hafta3-Teori",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Hafta3-Uygulama",
+            "cwd": "Hafta3-Uygulama",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Hafta3-Uygulama (profile mode)",
+            "cwd": "Hafta3-Uygulama",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Hafta3-Uygulama (release mode)",
+            "cwd": "Hafta3-Uygulama",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Hafta4-Uygulama",
+            "cwd": "Hafta4-Uygulama",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Hafta4-Uygulama (profile mode)",
+            "cwd": "Hafta4-Uygulama",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Hafta4-Uygulama (release mode)",
+            "cwd": "Hafta4-Uygulama",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Hafta5-Teori",
+            "cwd": "Hafta5-Teori",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Hafta5-Teori (profile mode)",
+            "cwd": "Hafta5-Teori",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Hafta5-Teori (release mode)",
+            "cwd": "Hafta5-Teori",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
